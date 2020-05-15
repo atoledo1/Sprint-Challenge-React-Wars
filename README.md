@@ -87,7 +87,7 @@ It is better to submit a challenge that meets [MVP](https://en.wikipedia.org/wik
   - `console.log()` the data coming back from the server.
   - There might be `next` and `previous` fields that give you a URL.
   - You can build a function that will get characters called `getCharacters` that you can use dynamically to get the next or previous set of characters. You would need to supply it with the proper fields, and you'll need to set up more state to do this.
-
+.
 <!--
 - [ ] Build another app from scratch that looks very similar to this one. Inside of your main `App` component fetch some data in this same fashion from this url `https://dog.ceo/dog-api/#all` you'll have to follow the documentation at that website and figure out how to change up the code you've seen here in order to properly fetch the data and store it on Component State.
 -->
